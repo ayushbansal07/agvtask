@@ -1,0 +1,5 @@
+Open catkin_ws folder
+Input image file name - ps1.png
+Output imge file name - ps1_output.png
+talker and listener files in:
+catkin_ws/src/beginner_tutorials/src
